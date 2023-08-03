@@ -10,7 +10,7 @@
 
 # production
 # /src/
-/build
+# /build
 # node_modules
 
 # misc
