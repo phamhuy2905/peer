@@ -9,8 +9,9 @@
 /coverage
 
 # production
-/src/
+# /src/
 /build
+# node_modules
 
 # misc
 .DS_Store

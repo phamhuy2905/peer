@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    min-height: 100vh;
+    background-color: rgb(0, 0, 0);
+}
+#root {
+    height: 100%;
+}
+
+.tippy-box .tippy-content div {
+    font-size: 13px !important;
+}
