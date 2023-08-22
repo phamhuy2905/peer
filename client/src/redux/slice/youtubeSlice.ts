@@ -18,13 +18,13 @@ const initialState: InitialType = {
     infomation: [
         {
             title: "Best of lofi hip hop 2022 🎆 - beats to relax/study to",
-            videoId: "w5IpoFvizlI",
+            videoId: "xJ7EF7XweiA",
             thumbnail: `https://img.youtube.com/vi/${"w5IpoFvizlI"}/default.jpg`,
             isLive: true,
             duration: "Live",
         },
     ],
-    currentId: "w5IpoFvizlI",
+    currentId: "xJ7EF7XweiA",
     statusYoutube: 0,
 };
 
